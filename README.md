@@ -1,5 +1,5 @@
 # Project: Landing Page
-The flex-box exercise I opened as part of the Odin Project
+The flex-box exercise I opened as part of The Odin Project
 
 # Expected Page
 ![Expected Page](/src/images/expected.png "Expected Page")
